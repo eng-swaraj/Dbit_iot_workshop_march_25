@@ -1,5 +1,6 @@
 
-# Dbit_iot_workshop_march_25
+# Dbit_iot_workshop_march_25  
+Update and resource link : https://forms.gle/jCRZLzexfkWmpRmv8
 
 
 Youtube link : https://www.youtube.com/channel/UCRP3Whi-7RlejFGJrtG95Ew
