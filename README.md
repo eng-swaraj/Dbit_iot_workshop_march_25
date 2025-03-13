@@ -31,6 +31,8 @@ bash
 Copy
 Edit
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://dl.espressif.com/dl/package_esp32_index.json
+
 Click OK.
 Go to Tools > Board > Boards Manager.
 Search for ESP8266 and install ESP8266 by ESP8266 Community.
